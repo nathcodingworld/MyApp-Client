@@ -1,0 +1,9 @@
+
+
+node_modules/
+.env
+/build
+private.txt
+private.md
+firebase-debug.log
+/src/Key
